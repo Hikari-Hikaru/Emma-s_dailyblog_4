@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>2025年7月5日 - 今日は何の日？</title>
+  <title>Emma's dailyblog_4</title>
   <link rel="stylesheet" href="../style.css"> <!-- 外部CSSの読み込み -->
   <style>
     body {
