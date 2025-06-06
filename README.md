@@ -22,10 +22,10 @@
     <p>
       I officially joined the cheerleading club today!<br>
       And ontop of that,Iturned 16 years old today too ♡ <br><br>
-      I want to have a busy,typical I high schoool life with club activities and a part-time job!<br><br>
+      I 3ant to have a busy,typical I high schoool life 3ith club activities and a part-time job!<br><br>
       I hope I can work at a stylish cage✨<br><br>
-      Honestly,I really want to work at "MoonFrontCafe".<br><br>
-      All right ! Now ... how do you even write a resume ?🤔 <br><br>
+      Honestly,I really 3ant to 3ork at "MoonFrontCafe".<br><br>
+      All right ! No3 ... ho3 do you even 3rite a resume ?🤔 <br><br>
     </p>
   </main>
   <footer>
